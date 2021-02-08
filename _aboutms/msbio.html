@@ -1,0 +1,70 @@
+---
+layout: default
+title: Biographical Sketch
+main_img: images/aboutms/mainimage.png
+---
+
+Margaret Louise Higgins was born on September 14, 1879 in Corning, New York to Michael Hennessey Higgins, an Irish-born stonemason with iconoclastic ideas, and Anne Purcell Higgins, a devoutly Catholic Irish-American. When Anne Higgins died from tuberculosis at the age of fifty, Margaret, the sixth of eleven children, pointed to her mother's frequent pregnancy as the underlying cause of her premature death. Margaret Higgins sought to escape what she viewed as a grim class and family heritage. With the help of her older sisters, she attended Claverack College and Hudson River Institute in 1896 and then entered the nursing program at White Plains Hospital in 1900. In 1902, just months before completing the program, she met and married architect William Sanger. Margaret Sanger and her husband had three children and the family settled in Hastings, a Westchester County suburb of New York City.
+
+Suburban life, however, did not satisfy the Sangers. By 1910 the family moved to New York City. William Sanger wanted to give up his work as a draftsman to try his hand at painting, while Margaret Sanger returned to nursing to help support the family. The Sangers also became immersed in the pre-war radical bohemian culture flourishing in Greenwich Village. They joined a circle of intellectuals, activists, and artists that included Max Eastman, John Reed, Upton Sinclair, Mabel Dodge and Emma Goldman. Margaret Sanger became a member of the Liberal Club and a supporter of the anarchist-run Ferrer Center and Modern School. She also joined the Women's Committee of the NY Socialist Party, and took part in labor actions led by the Industrial Workers of the World, including the 1912 strike at Lawrence, MA and the 1913 strike at Paterson, NJ.
+
+Margaret Sanger's work as a visiting nurse focused her interest in sex education and women's health. In 1912 she began writing a column on
+sex education for the <i>New York Call</i> entitled "What Every Girl Should Know." This experience led to her first battle with censors, who suppressed her
+column on venereal disease, deeming it obscene. Increasingly, it was the issue of family limitation that attracted Sanger's attention as she worked in New York's
+Lower East Side with poor women suffering the pain of frequent childbirth, miscarriage and abortion. Influenced by the ideas of anarchist Emma Goldman, Sanger
+began to argue for the need for family limitation as a tool by which working-class women would liberate themselves from the economic burden of unwanted pregnancy.
+
+Shocked by the inability of most women to obtain accurate and effective birth control, which she believed was fundamental to securing freedom and independence for
+working women, Sanger began challenging the 1873 federal Comstock law and the various "little Comstock" state laws that banned the dissemination of contraceptive information.
+In March 1914, Sanger published the first issue of <i>The Woman Rebel</i>, a radical feminist monthly that advocated militant feminism, including the right to practice birth
+control. For advocating the use of contraception, three issues of The Woman Rebel were banned, and in August 1914 Sanger was eventually indicted for violating postal obscenity
+laws. Unwilling to risk a lengthy imprisonment for breaking federal laws, Sanger jumped bail in October and, using the alias "Bertha Watson," set sail for England. En route,
+she ordered friends to release 100,000 copies of <i>Family Limitation</i>, a 16-page pamphlet which provided explicit instructions on the use of a variety of contraceptive methods.
+
+On arrival in England, Margaret Sanger contacted a number of British radicals, feminists, and neo-Malthusians whose social and economic theories helped Sanger develop broader
+justifications for the use of birth control. She was also deeply influenced by psychologist Havelock Ellis and his theories on the importance of female sexuality. Sanger
+broadened her arguments for birth control claiming it would fulfill a critical psychological need by enabling women to fully enjoy sexual relations, free from the fear of pregnancy.
+
+In 1915 William Sanger was jailed for 30 days for distributing a copy of Family Limitation to an undercover postal agent. Shortly after, in October of that year, Margaret Sanger, keen
+to focus media attention on her trial and generate favorable public support, returned to New York to face <i>The Woman Rebel</i> charges. When her only daughter, five-year old Peggy, died
+suddenly in November, sympathetic publicity convinced the government to drop Sanger's prosecution. Denied the forum of a public trial, Sanger embarked on a nationwide tour to promote
+birth control. Arrested in several cities, her confrontational style attracted even greater publicity for herself and the cause of birth control
+
+Although in 1914 Sanger had been promoting woman-controlled contraceptives, such as suppositories or douches, a 1915 visit to a Dutch birth control clinic convinced her that a new, more flexible diaphragm, carefully fitted by medically trained staff, was the most effective contraceptive device. After returning from a national tour in 1916, Sanger opened the nation's first birth control clinic in Brownsville,Brooklyn. On October 24, 1916, after only nine days in operation, the clinic was raided, and Sanger and her staff were arrested. Sanger was convicted and spent thirty days in prison. However, the publicity surrounding the <a href="organization_brownsville_clinic.html">Brownsville Clinic</a> also provided Sanger with a base of wealthy supporters from which she began to build an organized movement for birth control reform. Sanger appealed the Brownsville decision and although her conviction was upheld, the New York State appellate court exempted physicians from the law prohibiting dissemination of contraceptive information to women if prescribed for medical reasons. This loophole allowed Sanger the opportunity to open a legal, doctor-run birth control clinic in 1923. Staffed by female doctors and social workers, the <a href="organization_bccrb.html">Birth Control Clinical Research Bureau</a> served as a model for the establishment of other clinics, and became a center for the collection of critical clinical data on the effectiveness of contraceptives.
+
+Sanger separated from her husband, William, in 1914, and in keeping with her private views on sexual liberation, she began a series of affairs with several men, including Havelock Ellis and H. G. Wells. In 1922 she married oil magnate James Noah H. Slee, but did so on her own terms, insuring her financial and sexual independence. Slee, who died in 1943, became the main funder of the birth control movement.
+
+With the suppression of the radical left after World War I, Sanger decided to expand support for birth control by promoting it on the basis of medical and public health needs. In 1917 she established a new monthly, the <a href="organization_bcr.html"><i>Birth Control Review</i></a>, and in 1921 she embarked on a campaign of education and
+publicity designed to win mainstream support for birth control by opening the <a href="organization_abcl.html">American Birth Control League</a>. She
+focused many of her efforts on gaining support from the medical profession, social workers, and the liberal wing of the eugenics movement. She increasingly
+rationalized birth control as a means of reducing genetically transmitted mental or physical defects, and at times supported sterilization for the mentally
+incompetent. While she did 	not advocate efforts to limit population growth solely on the basis of class, ethnicity or race, and refused to encourage
+positive race-based eugenics, Sanger's reputation was permanently tainted by her association with the reactionary wing of the eugenics movement.
+
+In 1929 Sanger formed the <a href="organization_ncflbc.html">National Committee on Federal Legislation for Birth Control</a> to lobby
+for birth control legislation that granted physicians the right to legally disseminate contraceptives. However, most doctors remained hostile to birth control. In addition, Sanger
+faced strenuous opposition from the Catholic Church. In the end, her legislative campaigns and efforts to secure government support for birth control failed. Sanger did, however,
+succeed in the courts. In 1936, the U.S. Court of Appeals ruled that physicians were exempt from the Comstock Law's ban on the importation of birth control materials. This decision,
+in effect, gave doctors the right to prescribe or distribute contraceptives (though the ban on importing contraceptive devices for personal use was not lifted until 1971).
+
+By the late 1920's, Sanger's efforts to broaden support for birth control changed the movement's focus away from radical feminism toward more conservative mainstream middle-class values.
+Increasingly Sanger herself was viewed as too radical for the movement she had launched. In 1928 she angrily resigned as president of the American Birth Control League and as Sanger's
+leadership in the movement was eclipsed by younger professionals with more mainstream agendas. With the merger of the American Birth Control League and the Birth Control Clinical Research
+Bureau into the <a href="organization_bcfa.html">Birth Control Federation of America</a> in 1939 (later renamed the
+<a href="organization_ppfa.html">Planned Parenthood Federation of America</a>) Sanger's role in the birth control movement became largely honorific. By 1942, Sanger was living in Tucson, AZ
+and had retired from active participation in the movement.
+
+World War II refocused Sanger's attention on international aspects of the birth control movement. She had traveled extensively in the early 1920's and 1930's to lecture on birth control
+in Asia and Europe. In 1930 she organized the <a href="organization_bciic.html">Birth Control International Information Centre</a> with British
+feminist Edith How-Martyn to serve as a clearinghouse for information. By the end of the war, growing alarm over the consequences of population growth, particularly in the Third World,
+renewed interest in efforts to build an international birth control movement, propelling Margaret Sanger out of retirement. Working with family planning leaders in Europe and Asia, she
+helped found the <a href="organization_ippf.html">International Planned Parenthood Federation</a> (IPPF) in 1952 and served as its first president until 1959. At her retirement, the IPPF
+was the largest private international organization devoted to the promotion of family planning.
+
+Through all her work for birth control, Sanger was consistent in her search for simpler, less costly, and more effective contraceptives. Not only did she help arrange for the American
+manufacture of the Dutch-based spring-form diaphragms she had been smuggling in from Europe, but in subsequent years she fostered a variety of research efforts to develop spermicidal
+jellies, foam powders, and hormonal contraceptives. Finally in the 1950s, her role in helping to find critical research funding made possible the development of the first effective anovulant
+contraceptive -- the birth control pill.
+
+The 1965 Supreme Court decision, <i>Griswold v. Connecticut</i> made birth control legal for married couples. Only a few months later, on September 6, 1966, Margaret Sanger, the founder of
+the birth control movement, died in a Tucson nursing home at the age of 86.
