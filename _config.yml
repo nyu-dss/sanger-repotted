@@ -9,19 +9,19 @@ encoding:         utf-8
 collections:
   project:
     output: true
-    permalink: 'project/:title'
+    permalink: '/project/:title'
   aboutms:
     output: true
-    permalink: 'aboutms/:title'
+    permalink: '/aboutms/:title'
   publications:
     output: true
-    permalink: 'publications/:title'
+    permalink: '/publications/:title'
   newsletter:
     output: true
-    permalink: 'newsletter/:title'
+    permalink: '/newsletter/:title'
   articles:
     output: true
-    permalink: 'articles/:title'
+    permalink: '/articles/:title'
 
 menu:
   - label: About Sanger
