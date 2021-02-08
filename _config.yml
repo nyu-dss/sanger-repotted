@@ -22,6 +22,9 @@ collections:
   articles:
     output: true
     permalink: '/articles/:title'
+  documents:
+    output: true
+    permalink: '/documents/:title'
 
 menu:
   - label: About Sanger
