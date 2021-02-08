@@ -1,9 +1,27 @@
-title:        The Margaret Sanger Papers Project
-baseurl:      /sanger-repotted
-logo:         'images/logo.png'
+title:            The Margaret Sanger Papers Project
+baseurl:          /sanger-repotted
+logo:             'images/logo.png'
 
-# permalink:    pretty
-incremental:  true
+# permalink:        pretty
+incremental:      true
+encoding:         utf-8
+
+collections:
+  project:
+    output: true
+    permalink: 'project/:title'
+  aboutms:
+    output: true
+    permalink: 'aboutms/:title'
+  publications:
+    output: true
+    permalink: 'publications/:title'
+  newsletter:
+    output: true
+    permalink: 'newsletter/:title'
+  articles:
+    output: true
+    permalink: 'articles/:title'
 
 menu:
   - label: About Sanger
@@ -19,21 +37,23 @@ menu:
   - label: The Project
     sub:
       - label: About
-        link: project/index/
+        link: project
       - label: Staff
         link: project/staff/
       - label: Interns
         link: project/internships/
-      - label: Funder
+      - label: Funders
         link: project/funders/
       - label: Reviews
         link: project/reviews/
       - label: Editing at the MSPP
         link: project/editing/
+      - label: Support
+        link: project/support/
   - label: Publications
     sub:
       - label: About
-        link: publications/index/
+        link: publications
       - label: Selected Papers of MS
         link: publications/book/
       - label: Microfilm Edition
@@ -41,23 +61,23 @@ menu:
       - label: Online Microfilm Edition
         link: publications/microfilm-online/
       - label: Speeches and Articles
-        link: 'https://estherkatz.org/sangerpapers/documents/index'
+        link: 'https://estherkatz.org/sangerpapers/documents/'
       - label: Editorial Methods
         link: publications/editorial_methods/
   - label: Newsletter
     sub:
       - label: About
-        link: newsletter/index/
+        link: newsletter
       - label: Articles
         link: newsletter/articlelist/
   - label: Documents Online
     sub:
       - label: About
-        link: documents/index/
+        link: documents
       - label: Selected Writings
         link: documents/selected/
       - label: Digital Edition
-        link: 'https://estherkatz.org/sangerpapers/documents/index'
+        link: 'https://estherkatz.org/sangerpapers/documents/'
       - label: MS and the Woman Rebel
         link: documents/mswomanrebel/
       - label: Docs on Other Sites
@@ -65,7 +85,7 @@ menu:
   - label: Resources
     sub:
       - label: About
-        link: research/index/
+        link: research
       - label: "Editors' Notes"
         link: research/editorsnotes/
       - label: National History Day
@@ -77,4 +97,4 @@ menu:
       - label: Links
         link: research/links/
   - label: Contact Us
-    link: contactus/index/
+    link: contactus
