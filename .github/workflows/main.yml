@@ -13,8 +13,8 @@ jobs:
         fetch-depth: 1
     - name: Install Jekyll
       uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.6'
+      with:
+        ruby-version: '2.6'
       run: |
         gem install bundler jekyll
         bundle install
