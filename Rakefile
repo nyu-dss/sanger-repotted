@@ -4,9 +4,9 @@ require 'yaml'
 @config  = YAML.load_file '_config.yml'
 @baseurl = ENV['BASEURL'] || @config.dig('baseurl')
 
-puts "BASEURL "
-
 task :test do
+  Rake::Task["reset"].invoke
+  sh "bundle exec jekyll build -b '#{@baseurl}' -d '_site#{@baseurl}'"
   opts = {
     check_external_hash: true,
     allow_hash_href: true,
@@ -25,10 +25,4 @@ end
 
 task :build do
   sh "bundle exec jekyll build -b '#{@baseurl}'"
-end
-
-task :rbt do
-  Rake::Task["reset"].invoke
-  Rake::Task["build"].invoke
-  Rake::Task["test"].invoke
 end
