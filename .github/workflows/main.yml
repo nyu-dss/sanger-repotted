@@ -18,14 +18,19 @@ jobs:
     - name: build
       run: bundle exec rake build
   test:
-    - name: test
-      run: bundle exec rake test
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: bundle exec rake test
   deploy:
-    - name: deploy
-      uses: SamKirkland/FTP-Deploy-Action@4.0.0
-      env:
-        FTP_SERVER: ${{secrets.FTP_SERVER}}
-        FTP_USERNAME: ${{secrets.FTP_USERNAME}}
-        FTP_PASSWORD: ${{secrets.FTP_PASSWORD}}
-        LOCAL_DIR: _site
-        git-ftp-args: --dry-run
+    needs: [build, test]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        env:
+          FTP_SERVER: ${{secrets.FTP_SERVER}}
+          FTP_USERNAME: ${{secrets.FTP_USERNAME}}
+          FTP_PASSWORD: ${{secrets.FTP_PASSWORD}}
+          LOCAL_DIR: _site
+          git-ftp-args: --dry-run
