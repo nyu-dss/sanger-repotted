@@ -1,9 +1,6 @@
 require 'html-proofer'
 
 task :test do
-  Rake::Task["reset"].invoke
-  Rake::Task["build"].invoke
-
   opts = {
     check_external_hash: true,
     allow_hash_href: true,
@@ -22,4 +19,10 @@ end
 
 task :build do
   sh "bundle exec jekyll build"
+end
+
+task :rbt do
+  Rake::Task["reset"].invoke
+  Rake::Task["build"].invoke
+  Rake::Task["test"].invoke
 end

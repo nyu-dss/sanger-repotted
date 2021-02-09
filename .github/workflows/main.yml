@@ -7,20 +7,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out main
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
       with:
         fetch-depth: 1
-    - name: Install Jekyll
-      uses: actions/setup-ruby@v1
+    - uses: actions/setup-ruby@v1
       with:
         ruby-version: '2.6'
-      run: |
-        gem install bundler jekyll
-        bundle install
-    - name: Test site
+    - name: install
+      run: bundle
+    - name: build
+      run: bundle exec rake build
+    - name: test
       run: bundle exec rake test
-    - name: Deploy
+    - name: deploy
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       env:
         FTP_SERVER: ${{secrets.FTP_SERVER}}
