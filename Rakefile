@@ -11,10 +11,8 @@ task :test do
     disable_external: true,
     empty_alt_ignore: true,
     assume_extension: true,
-    only_4xx: true,
-    verbose: true
+    only_4xx: true
   }
-  $stdout.reopen("log.txt", "w")
   HTMLProofer.check_directory('./_site', opts).run
 end
 
@@ -23,5 +21,5 @@ task :reset do
 end
 
 task :build do
-  sh "bundle exec jekyll build -d _site/sanger-repotted"
+  sh "bundle exec jekyll build"
 end
