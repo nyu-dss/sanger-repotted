@@ -1,11 +1,13 @@
 title:            The Margaret Sanger Papers Project
-baseurl:          /sanger-repotted
+url:              ''
+baseurl:          ''
 logo:             'images/logo.png'
 
 permalink:        pretty
 incremental:      true
 encoding:         utf-8
 
+collections_dir: sections
 collections:
   project:
     output: true
