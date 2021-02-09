@@ -23,9 +23,9 @@ jobs:
       #   run: bundle exec rake test
       - name: deploy
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
-        env:
-          FTP_SERVER: ${{secrets.FTP_SERVER}}
-          FTP_USERNAME: ${{secrets.FTP_USERNAME}}
-          FTP_PASSWORD: ${{secrets.FTP_PASSWORD}}
-          LOCAL_DIR: _site
-          git-ftp-args: --dry-run
+        with:
+          server: ${{secrets.FTP_SERVER}}
+          username: ${{secrets.FTP_USERNAME}}
+          password: ${{secrets.FTP_PASSWORD}}
+          local_dir: ./_site/
+          server-dir: /sanger/
