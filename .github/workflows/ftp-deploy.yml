@@ -1,4 +1,4 @@
-name: Jekyll FTP deploy
+name: nyu web hosting ftp deploy
 on:
   push:
     branches:
