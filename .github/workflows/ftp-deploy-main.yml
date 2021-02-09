@@ -1,10 +1,10 @@
-name: ftp deploy
+name: deploy main branch to web hosting via ftp
 on:
   push:
     branches:
       - main
 jobs:
-  main:
+  deploy:
     runs-on: ubuntu-latest
     env:
       BASEURL: '/sanger'
