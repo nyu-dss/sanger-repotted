@@ -1,5 +1,5 @@
 # sanger-repotted 🌱🍯 
-![ftp deploy](https://github.com/nyu-dss/sanger-repotted/workflows/ftp%20deploy/badge.svg)
+[![ci:deploy](https://github.com/nyu-dss/sanger-repotted/workflows/ci:deploy/badge.svg)](https://github.com/nyu-dss/sanger-repotted/actions?query=workflow%3Aci%3Adeploy)
 
 __see:__ [nyu-dss/repotting-template](https://github.com/nyu-dss/repotting-template/)
 
