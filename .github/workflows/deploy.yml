@@ -1,4 +1,4 @@
-name: deploy main branch to web hosting via ftp
+name: ci:deploy
 on:
   push:
     branches:

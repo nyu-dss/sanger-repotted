@@ -1,4 +1,4 @@
-name: build test site for html errors + broken links
+name: ci:test
 on: [push, pull_request]
 
 jobs:
