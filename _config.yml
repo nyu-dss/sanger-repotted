@@ -1,6 +1,6 @@
 title:            The Margaret Sanger Papers Project
 url:              ''
-baseurl:          ''
+baseurl:          '/sanger-repotted'
 logo:             'images/logo.png'
 
 permalink:        pretty

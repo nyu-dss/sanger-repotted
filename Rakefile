@@ -1,4 +1,8 @@
 require 'html-proofer'
+require 'yaml'
+
+@config  = YAML.load_file '_config.yml'
+@baseurl = ENV['BASEURL'] || @config.dig('baseurl')
 
 task :test do
   opts = {
@@ -18,7 +22,7 @@ task :reset do
 end
 
 task :build do
-  sh "bundle exec jekyll build"
+  sh "bundle exec jekyll build -d _site#{@baseurl}"
 end
 
 task :rbt do
