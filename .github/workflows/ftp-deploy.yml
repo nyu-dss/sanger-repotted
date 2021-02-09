@@ -1,4 +1,4 @@
-name: nyu web hosting ftp deploy
+name: ftp deploy
 on:
   push:
     branches:
