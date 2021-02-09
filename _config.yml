@@ -6,6 +6,7 @@ logo:             'images/logo.png'
 permalink:        pretty
 incremental:      true
 encoding:         utf-8
+exclude:          [Rakefile, README.md]
 
 collections_dir: sections
 collections:
