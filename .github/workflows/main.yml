@@ -4,30 +4,23 @@ on:
     branches:
       - main
 jobs:
-  build:
+  main:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 1
-    - uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: install
-      run: gem install bundler && bundle
-    - name: build
-      run: bundle exec rake build
-  test:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: test
-        run: bundle exec rake test
-  deploy:
-    needs: [build, test]
-    runs-on: ubuntu-latest
-    steps:
-      - uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: install
+        run: gem install bundler && bundle
+      - name: build
+        run: bundle exec rake build
+      # - name: test
+      #   run: bundle exec rake test
+      - name: deploy
+        uses: SamKirkland/FTP-Deploy-Action@4.0.0
         env:
           FTP_SERVER: ${{secrets.FTP_SERVER}}
           FTP_USERNAME: ${{secrets.FTP_USERNAME}}
