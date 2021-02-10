@@ -3,6 +3,7 @@ url:              ''
 baseurl:          '/sanger-repotted'
 logo:             'images/logo.png'
 
+# permalink:        pretty
 incremental:      true
 encoding:         utf-8
 exclude:          [Rakefile, README.md]
@@ -11,98 +12,98 @@ collections_dir: sections
 collections:
   project:
     output: true
-    permalink: '/project/:title'
+    permalink: '/project/:title:output_ext'
   aboutms:
     output: true
-    permalink: '/aboutms/:title'
+    permalink: '/aboutms/:title:output_ext'
   publications:
     output: true
-    permalink: '/publications/:title'
+    permalink: '/publications/:title:output_ext'
   newsletter:
     output: true
-    permalink: '/newsletter/:title'
+    permalink: '/newsletter/:title:output_ext'
   articles:
     output: true
-    permalink: '/articles/:title'
+    permalink: '/articles/:title:output_ext'
   documents:
     output: true
-    permalink: '/documents/:title'
+    permalink: '/documents/:title:output_ext'
   research:
     output: true
-    permalink: '/research/:title'
+    permalink: '/research/:title:output_ext'
 
 menu:
   - label: About Sanger
     sub:
       - label: Biographical Sketch
-        link: aboutms/msbio
+        link: aboutms/msbio.html
       - label: Birth Control Organizations
-        link: aboutms/bc_organizations
+        link: aboutms/bc_organizations.html
       - label: The Sanger Archive
-        link: aboutms/sanger_archive
+        link: aboutms/sanger_archive.html
       - label: "Sanger's Writings"
-        link: aboutms/ms_writings
+        link: aboutms/ms_writings.html
   - label: The Project
     sub:
       - label: About
-        link: project
+        link: project/index.html
       - label: Staff
-        link: project/staff
+        link: project/staff.html
       - label: Interns
-        link: project/internships
+        link: project/internships.html
       - label: Funders
-        link: project/funders
+        link: project/funders.html
       - label: Reviews
-        link: project/reviews
+        link: project/reviews.html
       - label: Editing at the MSPP
-        link: project/editing
+        link: project/editing.html
       - label: Support
-        link: project/support
+        link: project/support.html
   - label: Publications
     sub:
       - label: About
-        link: publications
+        link: publications/index.html
       - label: Selected Papers of MS
-        link: publications/book
+        link: publications/book.html
       - label: Microfilm Edition
-        link: publications/microfilm
+        link: publications/microfilm.html
       - label: Online Microfilm Edition
-        link: publications/microfilm-online
+        link: publications/microfilm-online.html
       - label: Speeches and Articles
         link: 'https://estherkatz.org/sangerpapers/documents/'
       - label: Editorial Methods
-        link: publications/editorial_methods
+        link: publications/editorial_methods.html
   - label: Newsletter
     sub:
       - label: About
-        link: newsletter
+        link: newsletter/index.html
       - label: Articles
-        link: newsletter/articlelist
+        link: newsletter/articlelist.html
   - label: Documents Online
     sub:
       - label: About
-        link: documents
+        link: documents/index.html
       - label: Selected Writings
-        link: documents/selected
+        link: documents/selected.html
       - label: Digital Edition
         link: 'https://estherkatz.org/sangerpapers/documents/'
       - label: MS and the Woman Rebel
-        link: documents/mswomanrebel
+        link: documents/mswomanrebel.html
       - label: Docs on Other Sites
-        link: documents/othersites
+        link: documents/othersites.html
   - label: Resources
     sub:
       - label: About
-        link: research
+        link: research/index.html
       - label: "Editors' Notes"
-        link: research/editorsnotes
+        link: research/editorsnotes.html
       - label: National History Day
-        link: research/nhday
+        link: research/nhday.html
       - label: Sanger Bibliography
-        link: research/bibliography
+        link: research/bibliography.html
       - label: Sanger Images
-        link: research/images
+        link: research/images.html
       - label: Links
-        link: research/links
+        link: research/links.html
   - label: Contact Us
-    link: contactus
+    link: contactus.html
