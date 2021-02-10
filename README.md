@@ -22,4 +22,4 @@ __notes:__
 - [x] copied off i4 with httrack
 - [x] converted to jekyll for smoother, centralized edits
 - [x] published to [github pages](https://nyu-dss.github.io/sanger-repotted/)
-- [x] built and deployed to nyu web hosting via [ftp github action](https://github.com/nyu-dss/sanger-repotted/blob/main/.github/workflows/ftp-deploy.yml) (temporarily at http://marii.hosting.nyu.edu/sanger/)
+- [x] built and deployed to nyu web hosting via [ftp github action](https://github.com/nyu-dss/sanger-repotted/blob/main/.github/workflows/deploy.yml) (temporarily at http://marii.hosting.nyu.edu/sanger/)
