@@ -3,7 +3,7 @@
 
 __see:__ [nyu-dss/repotting-template](https://github.com/nyu-dss/repotting-template/)
 
-![sanger img](https://raw.githubusercontent.com/nyu-dss/sanger-repotted/main/images/aboutms/mainimage.png)
+![sanger img](https://raw.githubusercontent.com/nyu-dss/sanger-repotted/main/src/images/aboutms/mainimage.png)
 
 ## info
 
