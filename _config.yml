@@ -4,11 +4,11 @@ baseurl:          '/sanger-repotted'
 logo:             'images/logo.png'
 
 # permalink:        pretty
+source:           src
 incremental:      true
 encoding:         utf-8
 exclude:          [Rakefile, README.md]
 
-collections_dir: sections
 collections:
   project:
     output: true
