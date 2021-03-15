@@ -63,14 +63,14 @@ menu:
     sub:
       - label: About
         link: publications/index.html
-      - label: Selected Papers of MS
+      - label: Selected Papers of Margaret Sanger
         link: publications/book.html
       - label: Microfilm Edition
         link: publications/microfilm.html
       - label: Online Microfilm Edition
         link: publications/microfilm-online.html
       - label: Speeches and Articles
-        link: 'https://estherkatz.org/sangerpapers/documents/'
+        link: documents/electroniced.html
       - label: Editorial Methods
         link: publications/editorial_methods.html
   - label: Newsletter
@@ -86,10 +86,10 @@ menu:
       - label: Selected Writings
         link: documents/selected.html
       - label: Digital Edition
-        link: 'https://estherkatz.org/sangerpapers/documents/'
-      - label: MS and the Woman Rebel
+        link: documents/electroniced.html
+      - label: Margaret Sanger and the Woman Rebel
         link: documents/mswomanrebel.html
-      - label: Docs on Other Sites
+      - label: Documents on Other Sites
         link: documents/othersites.html
   - label: Resources
     sub:
