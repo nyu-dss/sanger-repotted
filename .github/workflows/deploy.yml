@@ -19,8 +19,8 @@ jobs:
         run: gem install bundler && bundle
       - name: build
         run: bundle exec rake build
-      # - name: test
-      #   run: bundle exec rake test
+      - name: test
+        run: bundle exec rake test
       - name: deploy
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
