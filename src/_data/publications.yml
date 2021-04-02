@@ -1,23 +1,23 @@
 - title: "The Selected Papers of Margaret Sanger, Volume IV: 'Round the World for Birth Control, 1920-1966'"
   press: "University of Illinois Press, hardcover 2016"
   description: "Edited by Esther Katz<br>Associate Editors Peter C. Engelman and Cathy Moran Hajo."
-  link: 'publications/volume_iv.html'
+  link: 'publications/volume_iv'
   img: 'images/vol4-cover.jpg'
 - img: '/images/vol3cover.jpg'
   title: "The Selected Papers of Margaret Sanger, Volume III: The Politics of Planned Parenthood, 1939-1966"
   press: University of Illinois Press, hardcover 2010
   description: "Edited by Esther Katz<br>Assistant Editors Cathy Moran Hajo and Peter C. Engelman."
-  link: publications/volume_iii.html
+  link: publications/volume_iii
 - img: images/vol2cover.jpg
   title: "The Selected Papers of Margaret Sanger, Volume II: Birth Control. Comes of Age, 1928-1939"
   press: University of Illinois Press, 2007
   description: "Edited by Esther Katz<br>Associate Editors Peter C. Engelman and Cathy Moran Hajo."
-  link: publications/volume_ii.html
+  link: publications/volume_ii
 - img:  images/vol1cover.jpg
   title: "The Selected Papers of Margaret Sanger, Volume I: The Woman Rebel, 1900-1928"
   press: University of Illinois Press, hardcover 2002, paperback 2007
   description: "Edited by Esther Katz<br>Assistant Editors Cathy Moran Hajo and Peter C. Engelman."
-  link: publications/volume_i.html
+  link: publications/volume_i
 - img: images/casestudy-hv-1.jpg
   title: "Margaret Sanger Papers: Smith College Collections and Collected Documents - Online Version"
   press: Proquest, 2018
@@ -27,19 +27,19 @@
   title: "The Margaret Sanger Papers Microfilm Edition: Smith College Collections"
   press: University Publications of America, 1996
   description: "Edited by Esther Katz, Peter C. Engelman, Cathy Moran Hajo and Anke Voss Hubbard."
-  link: publications/smith_series.html
+  link: publications/smith_series
 - img: images/Cdscover.gif
   title: "The Margaret Sanger Papers Microfilm Edition: Collected Documents Series"
   press: University Publications of America, 1997
   description: "Edited by Esther Katz, Cathy Moran Hajo and Peter C. Engelman."
-  link: publications/collected_documents.html
+  link: publications/collecteddocuments
 - img: images/womanrebel_cover.gif
   title: "Margaret Sanger and the Woman Rebel, An Electronic Edition"
   press: Model Editions Partnership, 1997
   description: Edited by Esther Katz, Cathy Moran Hajo and Peter C. Engelman
-  link: /documents/mswomanrebel.html
+  link: /documents/mswomanrebel
 - img: images/newsletter.gif
   title: "The Margaret Sanger Papers Project Newsletter"
   press: three times per year, 1991-present
   description: Edited by Peter C. Engelman.
-  link: /newsletter/index.html
+  link: /newsletter/index

@@ -1,0 +1,54 @@
+---
+layout: default
+title: Publications
+main_img: 'images/publications/mainimage.png'
+---
+The goal of the Margaret Sanger Papers Project is to collect, assemble, and publish the papers of the noted birth control reformer in order to make them more widely accessible to students, scholars and the general public.
+
+
+
+
+### The Project has published:
+
+{% for pub in site.data.publications %}
+<hr noshade="noshade" size="1" />
+<div style="clear:both;overflow: auto;display: flex;align-items:center;">
+<img border="1" style="float:left;margin: 0 1rem 1rem 0;max-height:250px" img src="{{ pub.img | absolute_url }}">
+<span>
+<p><em>{{ pub.title }}</em> ({{ pub.press }})</p>
+<p>{{ pub.description }}</p>
+<a href="{{ pub.link | absolute_url }}">More information</a>
+</span>
+</div>
+{% endfor %}
+
+
+### Publications in progress are:
+
+<p><span class="italicText"><a href="{% link documents/electroniced.html %}">The Speeches and Articles of Margaret Sanger, 1911-1959</a></span>
+(an electronic edition).</p>
+
+<p><hr noshade="noshade" size="1" /></p>
+
+<h2>Publications by Project staff:</h2>
+
+<tr>
+<td width="525"><h3><em>The Pivot of Civilization</em>, by Margaret Sanger, (1922, reprint Humanity Books, 2003).</h3>
+<img src="{% link images/pivot-1.jpg %}">
+<p>Foreword by Peter C. Engelman.</p><iframe src="https://rcm-na.amazon-adsystem.com/e/cm?t=margsangpapep-20&o=1&p=8&l=as1&asins=1591020581&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:180px;height:300px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="right"></iframe>
+<p>Arguably her most important and influential book, this controversial work, first published in 1922 by pioneering birth-control advocate Margaret Sanger, attempted to broaden the still-radical idea of birth control beyond its socialist and feminist roots. Moving away from a single-minded focus on women's reproductive rights to the larger issue of the general health and economic prosperity of the whole human race, Sanger argued that birth control was pivotal to a rational approach toward dealing with the threat of overpopulation and its ruinous consequences in poverty and disease. Through this book, Sanger hoped to persuade the medical establishment to assume control over contraceptive distribution, and thereby to lessen the religious, legal, and moral opposition that continued to restrict access to contraceptive information. She also introduced to Americans the link between science and sex, which hitherto had been found mainly in the work of European sexologists. </p>
+<p>&nbsp;</p></td>
+</tr>
+
+<tr>
+<td width="525"><h3><em>Birth Control on Main Street: Organizing Clinics in the United States, 1916-1939</em>, by Cathy Moran Hajo (University of Illinois Press, 2010).</h3>
+<img src="{% link images/HajoBook.jpg %}">
+<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=margsangpapep-20&o=1&p=8&l=as1&asins=0252077253&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:180px;height:300px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="right"></iframe> <p>Unearthing individual stories and statistical records from previously overlooked birth control clinics, Cathy Moran Hajo looks past the rhetoric of the birth control movement to show the relationships, politics, and issues that defined the movement in neighborhoods and cities across the United States. Whereas previous histories have emphasized national trends and glossed over the majority of clinics, <em>Birth Control on Main Street</em> contextualizes individual case studies to add powerful new layers to the existing narratives on abortion, racism, eugenics, and sterilization.</p>
+</td>
+</tr>
+
+<tr>
+<td width="525"><h3><em>A History of the Birth Control Movement in America</em>, by Peter C. Engelman (Prager, 2011).</h3>
+<img src="{% link images/PE-BookJacket.jpg %}" width="300" height="300">
+ <iframe src="https://rcm-na.amazon-adsystem.com/e/cm?t=margaresangerpap&o=1&p=8&l=as1&asins=0313365091&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:180px;height:300px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="right"> </iframe><p>&nbsp;</p></td>
+</tr>
