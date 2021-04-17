@@ -51,8 +51,6 @@ menu:
       - label: Editing at the MSPP
         link: project/editing/
       - label: Support
-        link: project/support/
-  - label: Publications
     sub:
       - label: About
         link: publications/
