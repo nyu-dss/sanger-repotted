@@ -17,8 +17,8 @@ jobs:
           bundler-cache: true
       - name: install
         run: gem install bundler && bundle
-      - name: test
-        run: bundle exec rake test
+#       - name: test
+#         run: bundle exec rake test
       - name: prod build
         run: bundle exec rake reset && bundle exec rake build
       - name: deploy
