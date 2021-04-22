@@ -86,8 +86,8 @@ menu:
     sub:
       - label: About
         link: research/
-      - label: "Editors' Notes"
-        link: research/editorsnotes/
+      # - label: "Editors' Notes"
+      #   link: research/editorsnotes/
       - label: National History Day
         link: research/nhday/
       - label: Sanger Bibliography
