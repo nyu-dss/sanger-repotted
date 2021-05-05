@@ -1,0 +1,224 @@
+﻿<?php
+
+//TITLE
+$title = 'Editorial Methods';
+//NAVIGATION
+$subdir = 'publications';
+$highlight = 'editorial methods.php';
+
+
+
+//Don't touch stuff after this line unless you know what you're doing:
+//--------------------------------------------------------------------------
+$DEBUG = false;
+
+//header.php contains HTML for the top of the page [e.g. <head> and metadata]
+//as well as PHP for generating the main navigation [dropdown menu]
+include ('../header.php');
+?>			
+
+<div class="maintext">
+
+<center>
+<h1><a href="editorial_methods.php">Editorial Methods</a></h1>
+<br />
+</center>
+
+<h2>Selection</h2>
+
+<p><img border="0" img src="../images/legacy/hitler_diary.jpg" align="right" width="218" height="350" style="margin-left: 15px">Margaret 
+Sanger left a voluminous archive of over 120,000
+letters, speeches, diaries and organizational and legal records documenting her
+long and eventful life. Our goal in creating this volume has been to highlight
+Sanger's distinctive voice and illuminate the multiple narratives of her life
+and work. Our choices were governed by our desire to document critical events,
+major themes and central issues of Sanger's life in the years 1900 to 1928,
+and to reveal her thought processes and modes of expression. Some 80% of the
+documents selected for this volume consist of letters, augmented by articles,
+speeches and selections from Sanger's pamphlets, journals and diaries. We have
+focused on including letters written by Sanger unless an incoming letter
+provides indispensable context that cannot be adequately summarized, offers
+critical information about Sanger and her agenda, or when Sanger's outgoing
+letters have not been preserved. We have also included a representative
+selection of letters written to Sanger by those seeking birth control advice.
+All but a few of the vast number of organizational and legal documents have been
+excluded. Documents are printed in their entirety with the exception of
+pamphlets, diaries and journals (entries were selected from the larger document)
+and testimony and newspaper interviews (we have included only Sanger's
+contribution).</p>
+
+<p>Margaret Sanger not only led the American movement, but
+also sought to globalize birth control by organizing international conferences
+and cultivating contacts among scientists, economists, social reformers and
+population control leaders around the world. Much of her international work was,
+by design, conducted independently of her leadership of the U.S. movement. We
+have, therefore, omitted documents relating to her international work from this
+and the two subsequent volumes of this edition, and will gather them in a
+separate (fourth) volume.</p>
+
+<h2>Establishing Text</h2>
+
+<p>The majority of source texts used for this edition are
+unique, but when there are multiple versions of letters, the recipient's copy
+is used. In the case of multiple drafts of Sanger's speeches or articles, we
+generally chose the one that most closely resembles the final version.
+Occasionally a composite text was created from various incomplete versions (ex.
+incomplete drafts of speeches with additional portions from published sources).
+Exceptions to these guidelines are noted in the head notes or endnotes. Variant
+versions of documents are cited in the source notes.</p>
+
+<h2>Organization and Format of the Volumes</h2>
+
+<p>Documents in the volumes are grouped into chronological
+chapters. Because this is such a highly selective edition, we have sought to
+provide narrative and chronological links in brief essays introducing each
+chapter. Each document is preceded by a header identifying the author, recipient
+or title. Explanatory head notes sometimes appear above documents to provide
+context, or explain issues or events relating to their creation. Documents are
+arranged in chronological order, and within that in alphabetical order by
+author. Documents written on the same day are placed in the order in which they
+were written. Documents dated only by month and year are placed at the end of
+that month. A unnumbered source note follows each document providing an
+abbreviation to describe the physical characteristics of the source text and its
+provenance, followed by its microfilm location, information on variant versions,
+notes on enclosures, anything notable about its physical condition (e.g. water
+stains; ink blots), and other identifying information (letterhead, Sanger's
+return address, etc.).</p>
+
+<h2>Transcription</h2>
+
+<p>Our transcription goal was to retain the authorial voice,
+color and tone of the original by reproducing the source text as accurately as
+possible. Original spelling, punctuation, paragraph division, abbreviations,
+ampersands, superscript, and other idiosyncrasies have been preserved, as have
+underlining and double underlining for emphasis (though text underlined more
+than twice is rendered as double underline). Authors' use of initial capitals,
+and capitalization as a means of emphasis has also been preserved. When
+capitalization could not be determined, we have adopted standard usage. Terminal
+punctuation rendered as long dashes or periods has also been retained. However,
+when sentences are terminated by the use of extra spaces, or when terminal
+punctuation is missing, the editors have silently supplied terminal periods.</p>
+
+<p>Words or parts of words that are illegible or missing in
+the source text are, wherever possible, supplied by the editors, (rendered as
+entire words) in italics within square brackets. When the supplied information
+is conjecture, the editors have followed that portion with a question mark. If
+the information cannot be supplied, the missing portion is rendered as [<i>illegible</i>]
+or [<i>pages missing or torn</i>].</p>
+
+<p>To insure a more readable text we have standardized the
+following elements: the first letter of each sentence is always capitalized; new
+paragraphs always begin with the first five characters indented; the
+complimentary closing is run into the last paragraph of letters; and signatures
+are always placed at the right margin beneath the text. In typed, signed
+letters, the handwritten signature is indicated by [<i>signed</i>] or [<i>initialed</i>],
+following the name.</p>
+
+<p>The place/date lines are always located flush to the right
+margin; the salutation flush to the left margin. Document dates and places
+written or typed by the author are rendered as they appear on the original,
+though in place lines, street addresses and county names have been omitted. For
+missing or incomplete dates, the editors have supplied the missing portion in
+standardized form. Dates or places added to the documents by the recipient or a
+third party have been omitted.</p>
+
+<p>In letters written by Sanger, home and hotel addresses
+have been retained, but appear in the source notes. As Sanger often used
+whatever paper or stationary was at hand, we have determined that letterhead
+alone is not sufficient to identify the place of origin. In these cases, Sanger's
+location has been verified, and the missing place is supplied in standardized
+form. For all letters written to Sanger, places of origin derived from
+letterhead are accepted and rendered without italics and brackets. Places of
+origin do not generally appear in speeches and published writings; if a place is
+associated with such a document, it is provided in the source note.</p>
+
+<p>Typographical errors and obvious slips of the pen have
+been silently corrected, and closing quotation marks or parentheses silently
+supplied. Cancelled text, interlineations, and/or other corrections and
+additions to the text by the author have been retained and indicated through
+symbols. Interlineations within the text are rendered within up and down arrows;
+author insertions or intended interlineations that appear elsewhere on the
+original (in the margins, or on the reverse, often with an arrow or other mark
+directing its intended placement in the text), are placed at the appropriate
+location in the text. Insertions that can be linked only to a paragraph, are
+placed at the end of that paragraph, with an endnote indicating its location on
+the original. When an author's insertion or margin note cannot be linked to a
+specific point in the document, it is placed below the signature, preceded by an
+editorial note describing its location on the original. Margin notes made by
+someone other than the author are described in endnotes if linked to a specific
+portion of the text, otherwise, in the source note. Because the originals are
+available on microfilm, general routing notes (including stamps, collection
+names, dates, etc.) as well as marks by archivists, researchers or others made
+well after the document was created, have been omitted.</p>
+
+<h2>Annotation</h2>
+<p>Source notes are followed, when needed, by one or more
+numbered endnotes which identify persons (and correct or identify partial names,
+nicknames, initials, and misspelled names), places, organizations, technical,
+medical or legal terms, publications (with bibliographic reference),
+abbreviations, archaic and foreign words or phrases; explain textual
+complexities in transcription; and contextualize events which are not explained
+elsewhere in the document, chapter essay or headnote. Notes may also point the
+reader to related material in the microfilm edition, and summarize documents
+excluded from the volume in order to furnish context (when quotes are used in
+head notes and endnotes, we have inserted ellipses to indicate omissions). The
+editors have tried to identify every person mentioned in the text, generally at
+the first full mention in a document. Location of the first biographical
+identification is noted in the index. Editors have not indicated when people or
+places are unidentified, though unidentified events and documents are noted.</p>
+
+		<!---END CONTENT--->
+			
+		</div>
+			</div>
+
+		<div id="sidebar">
+		<h1>Search</h>
+		<script>
+	(function() {
+    var cx = '016619794450116726182:r0pm5z5tz6e';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+    })();
+	</script>
+	<gcse:searchbox-only></gcse:searchbox-only>
+
+	<br><br>
+	
+		<div id="sidebar">
+		<h1>Publications</h1
+		<div id="subnav">
+		
+		<!---LINKS (bold current section)--->
+			<a href="index.php">About</a><br>
+		    <a href="book.php">Selected Papers of Margaret Sanger</a><br>
+			<a href="microfilm.php">Microfilm Edition</a><br>
+		    <a href="microfilm-online.php">Online Microfilm</a><br>
+		    <a href="electroniced.php">Digital - Speeches and Articles</a><br>
+	        <a href="http|//modeleditions.blackmesatech.com/mep/MS/docs/ms-table.html">The Woman Rebel - Image Edition</a><br>
+			<b><a href="editorial_methods.php">Editorial Methods</a></b><br>
+			
+          
+		</div>
+			</div>
+			  <div id="mainend"></div>
+		</div>
+		
+ <div id="footer">
+		<center>
+		All contents copyright © The Margaret Sanger Papers. All rights reserved.
+		</center>
+			</div>
+<?php
+//Don't touch this unless you know what you're doing:
+//--------------------------------------------------------------------------
+
+//footer.php contains HTML for the bottom of the page [e.g. copyright notice]
+//as well as PHP for generating the sidebar navigation
+include ('../footer.php');
+?>
