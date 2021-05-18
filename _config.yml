@@ -1,6 +1,6 @@
 title:            The Margaret Sanger Papers Project
 url:              ''
-baseurl:          '/sanger-repotted'
+baseurl:          ''
 logo:             'images/logo.png'
 
 permalink:        pretty
@@ -8,22 +8,6 @@ source:           src
 incremental:      true
 encoding:         utf-8
 exclude:          [Rakefile, README.md]
-
-# collections:
-#   project:
-#     output: true
-#   aboutms:
-#     output: true
-#   publications:
-#     output: true
-#   newsletter:
-#     output: true
-#   articles:
-#     output: true
-#   documents:
-#     output: true
-#   research:
-#     output: true
 
 menu:
   - label: About Sanger
@@ -87,8 +71,6 @@ menu:
     sub:
       - label: About
         link: research/
-      # - label: "Editors' Notes"
-      #   link: research/editorsnotes/
       - label: National History Day
         link: research/nhday/
       - label: Sanger Bibliography
