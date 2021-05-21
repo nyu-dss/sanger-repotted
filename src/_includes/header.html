@@ -13,7 +13,7 @@
           {% if item.link %}
             <li><a href="{{ item.link | absolute_url }}">{{ item.label }}</a></li>
           {% elsif item.sub %}
-            <li><a href="#" aria-haspopup="true">{{ item.label }}</a>
+            <li><a class="no-link" href="#" aria-haspopup="true">{{ item.label }}</a>
               <ul class="dropdown" aria-label="submenu">
                 {% for child in item.sub %}
                   <li><a href="{{ child.link | absolute_url }}">{{ child.label }}</a></li>

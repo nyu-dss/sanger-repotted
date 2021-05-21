@@ -335,3 +335,20 @@ hr {
 .date {
   font-size: 12px;
 }
+
+.no-link {
+  pointer-events: none;
+  cursor: default;
+}
+.pub-block {
+  display: table;
+  border-bottom: 1px #990000 solid;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.pub-block img {
+  float: left;
+  margin: 0 2em 2em 0 !important;
+}
