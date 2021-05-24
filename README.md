@@ -22,8 +22,7 @@ __date repotted:__
 __notes:__
 - [x] copied off i4 with httrack
 - [x] converted to jekyll for smoother, centralized edits
-- [x] published to [github pages](https://nyu-dss.github.io/sanger-repotted/)
-- [x] automates builds, tests, and deploys to nyu web hosting via [ftp github action](https://github.com/nyu-dss/sanger-repotted/blob/main/.github/workflows/deploy.yml) (temporarily at http://marii.hosting.nyu.edu/sanger/)
+- [x] automates builds, tests, and deploys to nyu web hosting via [ftp github action](https://github.com/nyu-dss/sanger-repotted/blob/main/.github/workflows/deploy.yml)
 
 ## editing guide
 
@@ -39,4 +38,4 @@ __notes:__
 - serve the site with `bundle exec jekyll serve`
 - add and commit your changes
 - if you push to the `main` branch, it will trigger the deploy workflow. you can check on it as it runs [here](https://github.com/nyu-dss/sanger-repotted/actions?query=workflow%3Aci%3Adeploy).
-- browse the prod site (currently http://marii.hosting.nyu.edu/sanger/) to see your deploy in action
+- browse the [prod site](https://sanger.hosting.nyu.edu/) to see your deploy in action
