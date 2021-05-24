@@ -22,7 +22,7 @@ jobs:
       - name: deploy
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ${{secrets.FTP_SERVER}}
-          username: ${{secrets.FTP_USERNAME}}@${{secrets.FTP_SERVER}}
+          server: sanger.hosting.nyu.edu
+          username: ${{secrets.FTP_USERNAME}}@sanger.hosting.nyu.edu
           password: ${{secrets.FTP_PASSWORD}}
           local-dir: ./_site/
