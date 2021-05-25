@@ -38,7 +38,7 @@ menu:
     sub:
       - label: About
         link: publications/
-      - label: Selected Papers of Margaret Sanger
+      - label: Book
         link: publications/book/
       - label: Microfilm Edition
         link: publications/microfilm/
