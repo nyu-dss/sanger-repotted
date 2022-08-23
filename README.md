@@ -17,7 +17,7 @@ __"new pot" url:__
 [sanger.hosting.nyu.edu](https://sanger.hosting.nyu.edu)
 
 __date repotted:__  
-[tbd]
+may 2021
 
 __notes:__
 - [x] copied off i4 with httrack
