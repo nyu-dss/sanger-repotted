@@ -8,14 +8,12 @@ task :test do
   Rake::Task["reset"].invoke
   sh "bundle exec jekyll build -b '#{@baseurl}' -d '_site#{@baseurl}'"
   opts = {
-    check_external_hash: true,
-    allow_hash_href: true,
     check_html: true,
     disable_external: true,
-    empty_alt_ignore: true,
-    assume_extension: true,
+    ignore_empty_alt: true,
+    ignore_missing_alt: true,
     only_4xx: true,
-    url_ignore: [/.*webedition\/app.*/]
+    ignore_urls: [/.*webedition\/app.*/]
   }
   HTMLProofer.check_directory('./_site', opts).run
 end

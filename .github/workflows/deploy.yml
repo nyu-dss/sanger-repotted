@@ -5,7 +5,7 @@ on:
       - main
     paths-ignore:
       - '**/README.md'
-      
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -16,8 +16,6 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-      - name: install
-        run: gem install bundler && bundle
       - name: test
         run: bundle exec rake test
       - name: prod build
